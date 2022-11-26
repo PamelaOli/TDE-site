@@ -133,7 +133,7 @@ body {
   .header .cabecalho-nav-item {
     float: left;
   }
-  .header li a {
+  .header ol a {
     padding: 20px 30px;
   }
   .header .menu {
